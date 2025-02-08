@@ -13,7 +13,7 @@ def generate_catalogue(font_list):
 \endgroup"""
 
         if font.endswith("(NOT SUPPORTED)"):
-            font_entry = r"\noindent\verb|%FONT_NAME%|\\"
+            font_entry = r"\noindent\verb|%FONT_NAME%|"
         
         font_entry = font_entry.replace(r"%FONT_NAME%", os.path.basename(font)) + "\n\n"
         font_entries += font_entry

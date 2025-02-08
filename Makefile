@@ -10,7 +10,7 @@ catalogue.pdf: catalogue.tex
 
 catalogue.tex: generate_catalogue.py template/catalogue.tex
 	fc-list :charset=0061-007a family style file | \
-	grep "texlive/2024/texmf-dist/fonts/.*\.\(otf\|ttc\)" | \
+	grep -E '.*/texlive/2024/texmf-dist/fonts/.*\.(ttf|otf):' | \
 	tee fc-list-result | \
 	python generate_catalogue.py
 

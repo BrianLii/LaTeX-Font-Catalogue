@@ -6,7 +6,9 @@ The **LaTeX Font Catalogue** project provides a visual guide to fonts available 
 - **TeX Live**: Using `fontspec`, the project loads `.ttf` and `.otf` fonts (discovered via `fc-list`) and generates a PDF catalogue displaying each font family's name and appearance.  
 - **Overleaf**: Supported OTF/TTF fonts for each letterform are listed in [this post](https://www.overleaf.com/learn/latex/Questions/Which_OTF_or_TTF_fonts_are_supported_via_fontspec%3F). To visualize them, I created separate PDFs (**Sans-serif.pdf, Serif.pdf, etc.**), each displaying the names and appearances of the corresponding fonts. The source code is packaged as a ZIP file for direct upload to Overleaf.  
 
-If you find this catalogue useful, feel free to give it a star. Contributions via PR are always welcome!
+Note: While the [TUG Font Catalogue](https://tug.org/FontCatalogue/) lists many fonts, a significant number are not included. There may also be discrepancies between the fonts listed there and those included in the current TeX Live installation, so you're encouraged to compare the two. This catalogue is designed for users who prefer not to install additional fonts when using a local TeX Live setup.
+
+Lastly, If you find this catalogue useful, feel free to give it a star. Contributions via PR are always welcome!
 
 ## Overleaf Font Catalogue
 - [Serif.pdf](generated/overleaf/Serif.pdf)

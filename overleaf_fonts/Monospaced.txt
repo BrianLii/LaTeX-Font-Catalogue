@@ -1,0 +1,69 @@
+AeMMono10
+Aerial Mono
+Andale Mono
+Anonymous Pro
+B612 Mono
+BabelStone Modern
+Bitstream Vera Sans Mono
+Cascadia Code PL
+CMU Typewriter Text
+Courier 10 Pitch
+Courier New
+Cousine
+Cuomotype
+D2Coding
+D2Coding ligature
+DejaVu Sans Mono
+Droid Sans Mono
+Fantasque Sans Mono
+Fira Code
+Fira Mono
+FreeMono
+GNUTypewriter
+Go Mono
+GWMonospace
+Hack
+IBM Plex Mono
+Inconsolata
+InconsolataN
+Inconsolatazi4
+IndUni-C
+JetBrains Mono
+KpMono
+Larabiefont
+Latin Modern Mono
+Latin Modern Mono Caps
+Latin Modern Mono Light
+Latin Modern Mono Light Cond
+Latin Modern Mono Prop
+Latin Modern Mono Prop Light
+Latin Modern Mono Slanted
+League Mono
+Liberation Mono
+Libertinus Mono
+Linux Libertine Mono O
+Logix Mono
+Mono Uralic
+Monofonto
+monofur
+mononoki
+NewComputerModernMono10
+Nimbus Mono
+Nimbus Mono PS
+Noto Mono
+Noto Sans Mono
+OpenDyslexicMono
+osifont
+Oxygen Mono
+PT Mono
+QTChicagoland
+QTPristine
+QTRobotic2000
+Ricty Diminished
+Ricty Diminished Discord
+Roboto Mono
+Source Code Pro
+TeX Gyre Cursor
+Ubuntu Mono (NOT SUPPORTED)
+UM Typewriter
+Unispace

@@ -1,0 +1,49 @@
+Bajaderka
+Bramalea Beauty
+Chancery Uralic
+Colourbars
+Compagnon
+Compagnon Italic
+Cretino
+Dancing Script
+Deftone Stylus
+Dyspepsia
+Elegante
+Great Vibes
+Joscelyn
+Kerkis-Calligraphic
+LeckerliOne (NOT SUPPORTED)
+Lemonada
+Lesser Concern
+Lobster Two
+Miama Nueva
+Oldania ADF Std
+Port Credit
+Ptolemy
+QTArabian
+QTArnieB
+QTArtiston
+QTBeckman
+QTBoulevard
+QTBrushStroke
+QTCaligulatype
+QTCanaithtype
+QTChanceryType
+QTCoronation
+QTFlorencia
+QTHoboken
+QTLautrecType
+QTLinostroke
+QTMerryScript
+QTPandora
+QTSlogantype
+QTUSA-Uncial
+QTWestEnd
+Rina
+Roman Uralic
+Romande ADF Script Std
+Rot
+Rusch
+TeX Gyre Chorus
+TriodPostnaja
+Z003

@@ -1,0 +1,195 @@
+Aboriginal Sans
+Aerial
+Alegreya Sans
+Allerta
+Andika
+Andika Compact
+Andika New Basic
+Angostura
+Angostura Black
+Arial
+Arimo
+Aroania
+Asap
+Averia GWF
+Averia Sans GWF
+B612
+Baloo 2
+Bebas Neue
+Berenika
+Bitstream Vera Sans
+Blue Highway
+BPG DejaVu Sans 2011 GNU-GPL
+BPG Mrgvlovani GPL&GNU
+BPG Nateli Condenced GPL&GNU
+BPG Nateli GPL&GNU
+BPG Sans GPL&GNU
+BPG Sans Medium GPL&GNU
+BPG Sans Modern GPL&GNU
+BPG Sans Regular GPL&GNU
+Cabin
+Cabin Condensed
+Cantarell
+Carlito
+Chivo
+Clear Sans
+CMU Bright
+CMU Sans Serif
+CMU Sans Serif Demi Condensed
+Comfortaa
+Comic Neue
+Comic Neue Angular
+Comic Neue Angular Light
+Comic Neue Light
+Comic Sans MS
+Cranberry Gin
+Cuprum
+DejaVu Sans
+Dosis
+Dream Orphans
+Droid
+Droid Sans
+Dustismo
+Dyuthi
+Eden Mills
+Electron
+Engebrechtre
+Engebrechtre Expanded
+eurofurence
+eurofurence classic
+eurofurence classic light
+eurofurence light
+Fetamont
+Fetamont Script
+Fira Sans
+Forgotten Futurist
+Forgotten Futurist College
+FreeSans
+Gemunu Libre
+Gemunu Libre ExtraLight
+GFS Neohellenic
+Gillius ADF
+Gillius ADF Cond
+Gillius ADF No2
+Gillius ADF No2 Cond
+Go
+GoSmallcaps
+Gothic Uralic
+Gotu
+Guanine
+Haramain
+Hind Madurai
+Hor
+IBM Plex Sans
+IBM Plex Sans Condensed
+Ikarius ADF No2 Std
+Ikarius ADF Std
+IndUni-H
+Inria Sans
+Inter
+Iwona
+Iwona Cond
+Iwona Cond Heavy
+Iwona Cond Light
+Iwona Cond Medium
+Iwona Heavy
+Iwona Light
+Iwona Medium
+Jara
+Josefin Sans
+Junction
+Jura
+Karmilla
+Klaudia
+KpSans
+Kurier
+Kurier Cond
+Kurier Cond Heavy
+Kurier Cond Light
+Kurier Cond Medium
+Kurier Heavy
+Kurier Light
+Kurier Medium
+Latin Modern Sans
+Latin Modern Sans Demi Cond
+Latin Modern Sans Quotation
+Lato
+League Spartan
+Libel Suit
+Liberation Sans
+Libertinus Keyboard
+Libertinus Sans
+Libris ADF Std
+Linux Biolinum Keyboard O
+Linux Biolinum O
+Manrope
+Merriweather Sans
+Mint Spirit
+Mint Spirit No2
+Montserrat
+Montserrat Alternates
+Mukta
+NewComputerModernSans08
+NewComputerModernSans10
+Nimbus Sans
+Nimbus Sans Narrow
+Noto Sans
+Open Sans
+OpenDyslexic
+OpenDyslexicAlta
+Overlock
+Oxygen-Sans
+Pakenham
+Play
+Primer Print
+PT Sans
+PT Sans Caption
+PT Sans Narrow
+QTAgateType
+QTAncientOlive
+QTAvanti
+QTDoghaus
+QTEraType
+QTEurotype
+QTFloraline
+QTFrank
+QTFuture
+QTHelvetCnd
+QTHowardType
+QTLetterGoth
+QTOptimum
+QTParisFrance
+QTPeignoir
+QTVagaRound
+Quattrocento Sans
+Quicksand
+Radis Sans
+Raleway
+Roboto
+Roboto Condensed
+Rosario
+Sans Condensed Uralic
+Sans Uralic
+Sophia Nubian
+Sora
+Source Sans Pro
+Spongy
+Steelfish
+STOMP_Zeroes
+Switzera ADF
+Taogu
+Teen
+TeX Gyre Adventor
+TeX Gyre Heros
+TeX Gyre Heros Cn
+Trebuchet MS
+Tuffy
+Ubuntu (NOT SUPPORTED)
+unifur
+Universalis ADF Std
+URW Gothic
+Verana Sans
+Veranda
+Verdana
+Yanone Kaffeesatz
+Zrnic

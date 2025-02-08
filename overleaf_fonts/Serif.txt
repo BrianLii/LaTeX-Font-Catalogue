@@ -1,0 +1,175 @@
+Aboriginal Serif
+Abyssinica SIL
+Accanthis ADF Std No3
+Alegreya
+Alfios
+AlgolRevived
+Annapurna SIL
+Antykwa Poltawskiego
+Antykwa Poltawskiego Light
+Antykwa Torunska
+Antykwa Torunska Condensed
+Arapey
+Asea
+Avdira
+Averia Serif GWF
+BABEL Unicode
+Baskervald ADF Std
+Baskervaldx
+BaskervilleF
+Berenis ADF Pro
+Berenis ADF Pro SC
+Berylium
+Bitstream Vera Serif
+Bookman Uralic
+BPG Serif GPL&GNU
+BPG Serif Modern GPL&GNU
+C059
+Caladea
+Cardo
+Caslon
+Century Catalogue
+Charis SIL
+Charis SIL Compact
+Cinzel
+Cinzel Decorative
+Clara
+CMU Concrete
+CMU Serif
+CMU Serif Extra
+CMU Serif Upright Italic
+CMU Typewriter Text Variable Width
+Cochineal
+Coelacanth
+Conakry
+Cormorant Garamond
+Credit River
+Credit Valley
+Crimson
+Crimson Pro
+DejaVu Serif
+Domitian
+Doulos SIL
+Doulos SIL Compact
+Droid Serif
+Dustismo Roman
+EB Garamond
+Echelon Condensed
+Eczar
+Edmunds
+Edmunds Distressed
+Effloresce
+Effloresce Antique
+Elstob
+EMERITA Latina
+Essays1743
+ETbb
+Ezra SIL
+Ezra SIL SR
+Fanwood
+Fanwood Text
+FreeSerif
+Furat
+Galatia SIL
+Gayathri
+Gentium
+Gentium Basic
+Gentium Book Basic
+Gentium Plus
+Gentium Plus Compact
+GentiumAlt
+Georgia
+GFS Artemisia
+GFS Bodoni
+GFS Didot
+Goodfish
+Goudy Bookletter 1911
+Heuristica
+IBM Plex Serif
+IM FELL DW Pica
+IM FELL English
+IM FELL English SC
+IndUni-N
+IndUni-P
+IndUni-T
+Inria Serif
+Irianis ADF Std
+Irianis ADF Style Std
+Junicode
+Kalpurush
+KpRoman
+Latin Modern Roman
+Latin Modern Roman Dunhill
+Liberation Serif
+Libertinus Serif
+Libre Baskerville
+Libre Bodoni
+Libre Caslon Text
+Linden Hill
+Linux Libertine Display O
+Linux Libertine O
+Mekanus ADF Std
+Mekanus ADF Titling Std
+Merriweather
+Merriweather Light
+MPH 2B Damase
+NewComputerModern08
+NewComputerModern10
+Nimbus Roman
+Noto Serif
+NovelDeco
+Old Standard TT
+Oradano-mincho-GSRR
+Palladio Uralic
+Parix
+Playfair Display
+Prociono
+PT Serif
+QTAntiquePost
+QTBasker
+QTBengal
+QTBodini
+QTBookmann
+QTCaslan
+QTCaslanOpen
+QTFrizQuad
+QTGaromand
+QTGraphLite
+QTGraveure
+QTKorrin
+QTOldGoudy
+QTPalatine
+QTSchoolCentury
+QTWeise
+Quattrocento
+Rasa
+RIT-Sundar
+Roboto Slab
+Romande ADF No2 Std
+Romande ADF Std
+Romande ADF Style Std
+Schoolbook Uralic
+Soufflet Vert
+Source Serif Pro
+Spira
+Subpear
+Sweynheim & Pannartz
+Symbola
+Tempora
+TeX Gyre Bonum
+TeX Gyre Pagella
+TeX Gyre PagellaX
+TeX Gyre Schola
+TeX Gyre ScholaX
+TeX Gyre Termes
+TeX Gyre TermesX
+Times New Roman
+Tinos
+Tribun ADF Std
+Tymes
+URW Bookman
+Vahika
+Verana
+Vollkorn
+XCharter
+Yrsa
